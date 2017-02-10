@@ -3,11 +3,11 @@
  * Plugin Name: One click demo install
  * Plugin URI: https://github.com/FrankM1/radium-one-click-demo-install
  * Description: This plugin help you confiq with blogie wordpress theme to one click demo install
- * Version: 1.0
  * Author: Rachel FrankM1
- * Author URI: https://github.com/FrankM1/radium-one-click-demo-install
+ * Author URI: https://github.com/FrankM1/
+ * Version: 1.0
+ * License: GPLv2 or later
  */
-
 
 /**
  * Version 0.0.3
